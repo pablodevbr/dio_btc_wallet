@@ -1,2 +1,3 @@
-# dio_btc_wallet
-Gerador simples de carteiras Bitcoin
+# BTC Wallet
+
+Gerador simples de carteiras Bitcoin proposto como desafio para o curso Binance - Blockchain Developer with Solidity da DIO.me.
